@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+
+data/dbpedia_csv.tar.gz
+data/dbpedia_csv/
